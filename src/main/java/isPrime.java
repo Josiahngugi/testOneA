@@ -19,5 +19,11 @@ public class isPrime {
         Scanner in=new Scanner(System.in);
         System.out.println("please enter the number");
         int input=in.nextInt();
+
+        if(isPrime(input))
+            System.out.println(" true") ;
+
+        else
+            System.out.println(" false");
     }
 }

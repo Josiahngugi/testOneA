@@ -1,6 +1,5 @@
 # Code Test One A
-link to my live site
-This  is a program that prompt users for intergers and checck if its a prime number or not
+This  is a program that prompt users for interger and then check if its a prime number or not.
 
 
 ## Getting Started

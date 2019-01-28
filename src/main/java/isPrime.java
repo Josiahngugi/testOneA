@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class isPrime {
     static boolean isPrime(int n){
 
@@ -11,7 +13,11 @@ public class isPrime {
 
     return true;
     }
+
     public static void main(String [] args){
 
+        Scanner in=new Scanner(System.in);
+        System.out.println("please enter the number");
+        int input=in.nextInt();
     }
 }
